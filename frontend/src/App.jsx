@@ -12,7 +12,7 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 import { fetchCart } from './store/slices/cartSlice';
-import Orders from './pages/orders';
+import Orders from './pages/Orders';
 
 function App() {
   const dispatch = useDispatch();
